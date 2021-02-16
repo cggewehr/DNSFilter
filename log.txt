@@ -1,0 +1,501 @@
+Read blacklist file <blacklist.txt>, containing domains:
+	facebook.com.
+	reddit.com.
+	twitter.com.
+	instagram.com.
+Flushing DNS cache @ 2021-02-16 03:14:46.737947
+Opened PyDivert handle for UDP port 53 @ 2021-02-16 03:14:46.767516
+Packet intercepted @ 2021-02-16 03:14:52.470665
+Let through query to non-blacklisted domain <guc-spclient.spotify.com.> @ 2021-02-16 03:14:52.471664
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:14:52.471664
+Let through query to non-blacklisted domain <guc-spclient.spotify.com.> @ 2021-02-16 03:14:52.472662
+Processing latency: 0:00:00.000998
+
+Packet intercepted @ 2021-02-16 03:14:52.487663
+Let through query to non-blacklisted domain <guc-spclient.spotify.com.> @ 2021-02-16 03:14:52.489661
+Processing latency: 0:00:00.001998
+
+Packet intercepted @ 2021-02-16 03:14:52.489661
+Let through query to non-blacklisted domain <guc-spclient.spotify.com.> @ 2021-02-16 03:14:52.490664
+Processing latency: 0:00:00.001003
+
+Packet intercepted @ 2021-02-16 03:14:55.297137
+Let through query to non-blacklisted domain <i.scdn.co.> @ 2021-02-16 03:14:55.298137
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:14:55.298137
+Let through query to non-blacklisted domain <i.scdn.co.> @ 2021-02-16 03:14:55.299137
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:14:55.314150
+Let through query to non-blacklisted domain <i.scdn.co.> @ 2021-02-16 03:14:55.315137
+Processing latency: 0:00:00.000987
+
+Packet intercepted @ 2021-02-16 03:14:55.316137
+Let through query to non-blacklisted domain <seeded-session-images.scdn.co.> @ 2021-02-16 03:14:55.317137
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:14:55.317137
+Let through query to non-blacklisted domain <seeded-session-images.scdn.co.> @ 2021-02-16 03:14:55.318136
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:14:55.321165
+Let through query to non-blacklisted domain <i.scdn.co.> @ 2021-02-16 03:14:55.322165
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:14:55.324137
+Let through query to non-blacklisted domain <newjams-images.scdn.co.> @ 2021-02-16 03:14:55.325138
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:14:55.326137
+Let through query to non-blacklisted domain <newjams-images.scdn.co.> @ 2021-02-16 03:14:55.326137
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:14:55.327136
+Let through query to non-blacklisted domain <dailymix-images.scdn.co.> @ 2021-02-16 03:14:55.329136
+Processing latency: 0:00:00.002000
+
+Packet intercepted @ 2021-02-16 03:14:55.329136
+Let through query to non-blacklisted domain <dailymix-images.scdn.co.> @ 2021-02-16 03:14:55.330137
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:14:55.334136
+Let through query to non-blacklisted domain <seeded-session-images.scdn.co.> @ 2021-02-16 03:14:55.335137
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:14:55.336136
+Let through query to non-blacklisted domain <seeded-session-images.scdn.co.> @ 2021-02-16 03:14:55.338136
+Processing latency: 0:00:00.002000
+
+Packet intercepted @ 2021-02-16 03:14:55.344137
+Let through query to non-blacklisted domain <newjams-images.scdn.co.> @ 2021-02-16 03:14:55.345137
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:14:55.346136
+Let through query to non-blacklisted domain <newjams-images.scdn.co.> @ 2021-02-16 03:14:55.347167
+Processing latency: 0:00:00.001031
+
+Packet intercepted @ 2021-02-16 03:14:55.347167
+Let through query to non-blacklisted domain <dailymix-images.scdn.co.> @ 2021-02-16 03:14:55.348137
+Processing latency: 0:00:00.000970
+
+Packet intercepted @ 2021-02-16 03:14:55.349136
+Let through query to non-blacklisted domain <dailymix-images.scdn.co.> @ 2021-02-16 03:14:55.350164
+Processing latency: 0:00:00.001028
+
+Packet intercepted @ 2021-02-16 03:14:55.672137
+Let through query to non-blacklisted domain <googleads.g.doubleclick.net.> @ 2021-02-16 03:14:55.673138
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:14:55.673138
+Let through query to non-blacklisted domain <googleads.g.doubleclick.net.> @ 2021-02-16 03:14:55.674137
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:14:55.702136
+Let through query to non-blacklisted domain <googleads.g.doubleclick.net.> @ 2021-02-16 03:14:55.703141
+Processing latency: 0:00:00.001005
+
+Packet intercepted @ 2021-02-16 03:14:55.715137
+Let through query to non-blacklisted domain <googleads.g.doubleclick.net.> @ 2021-02-16 03:14:55.716138
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:14:56.024137
+Let through query to non-blacklisted domain <securepubads.g.doubleclick.net.> @ 2021-02-16 03:14:56.025139
+Processing latency: 0:00:00.001002
+
+Packet intercepted @ 2021-02-16 03:14:56.025139
+Let through query to non-blacklisted domain <securepubads.g.doubleclick.net.> @ 2021-02-16 03:14:56.026136
+Processing latency: 0:00:00.000997
+
+Packet intercepted @ 2021-02-16 03:14:56.216098
+Let through query to non-blacklisted domain <securepubads.g.doubleclick.net.> @ 2021-02-16 03:14:56.218099
+Processing latency: 0:00:00.002001
+
+Packet intercepted @ 2021-02-16 03:14:56.221099
+Let through query to non-blacklisted domain <securepubads.g.doubleclick.net.> @ 2021-02-16 03:14:56.222122
+Processing latency: 0:00:00.001023
+
+Packet intercepted @ 2021-02-16 03:14:57.359592
+Let through query to non-blacklisted domain <917a06b41a60e2f405a744ac2b115538.safeframe.googlesyndication.com.> @ 2021-02-16 03:14:57.360592
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:14:57.360592
+Let through query to non-blacklisted domain <917a06b41a60e2f405a744ac2b115538.safeframe.googlesyndication.com.> @ 2021-02-16 03:14:57.361590
+Processing latency: 0:00:00.000998
+
+Packet intercepted @ 2021-02-16 03:14:57.520211
+Let through query to non-blacklisted domain <917a06b41a60e2f405a744ac2b115538.safeframe.googlesyndication.com.> @ 2021-02-16 03:14:57.521111
+Processing latency: 0:00:00.000900
+
+Packet intercepted @ 2021-02-16 03:14:57.523821
+Let through query to non-blacklisted domain <917a06b41a60e2f405a744ac2b115538.safeframe.googlesyndication.com.> @ 2021-02-16 03:14:57.524875
+Processing latency: 0:00:00.001054
+
+Packet intercepted @ 2021-02-16 03:14:58.138934
+Let through query to non-blacklisted domain <adeventtracker.spotify.com.> @ 2021-02-16 03:14:58.139936
+Processing latency: 0:00:00.001002
+
+Packet intercepted @ 2021-02-16 03:14:58.139936
+Let through query to non-blacklisted domain <adeventtracker.spotify.com.> @ 2021-02-16 03:14:58.140935
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:14:58.156934
+Let through query to non-blacklisted domain <spclient.wg.spotify.com.> @ 2021-02-16 03:14:58.157935
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:14:58.158934
+Let through query to non-blacklisted domain <spclient.wg.spotify.com.> @ 2021-02-16 03:14:58.158934
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:14:58.158934
+Let through query to non-blacklisted domain <spclient.wg.spotify.com.> @ 2021-02-16 03:14:58.160937
+Processing latency: 0:00:00.002003
+
+Packet intercepted @ 2021-02-16 03:14:58.160937
+Let through query to non-blacklisted domain <spclient.wg.spotify.com.> @ 2021-02-16 03:14:58.161934
+Processing latency: 0:00:00.000997
+
+Packet intercepted @ 2021-02-16 03:14:58.186472
+Let through query to non-blacklisted domain <adeventtracker.spotify.com.> @ 2021-02-16 03:14:58.187470
+Processing latency: 0:00:00.000998
+
+Packet intercepted @ 2021-02-16 03:14:58.188475
+Let through query to non-blacklisted domain <adeventtracker.spotify.com.> @ 2021-02-16 03:14:58.189475
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:14:58.254135
+Let through query to non-blacklisted domain <pagead2.googlesyndication.com.> @ 2021-02-16 03:14:58.255010
+Processing latency: 0:00:00.000875
+
+Packet intercepted @ 2021-02-16 03:14:58.255995
+Let through query to non-blacklisted domain <pagead2.googlesyndication.com.> @ 2021-02-16 03:14:58.255995
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:14:58.294216
+Let through query to non-blacklisted domain <pagead2.googlesyndication.com.> @ 2021-02-16 03:14:58.296217
+Processing latency: 0:00:00.002001
+
+Packet intercepted @ 2021-02-16 03:14:58.299216
+Let through query to non-blacklisted domain <pagead2.googlesyndication.com.> @ 2021-02-16 03:14:58.300218
+Processing latency: 0:00:00.001002
+
+Packet intercepted @ 2021-02-16 03:14:58.593909
+Let through query to non-blacklisted domain <tpc.googlesyndication.com.> @ 2021-02-16 03:14:58.594911
+Processing latency: 0:00:00.001002
+
+Packet intercepted @ 2021-02-16 03:14:58.594911
+Let through query to non-blacklisted domain <tpc.googlesyndication.com.> @ 2021-02-16 03:14:58.595908
+Processing latency: 0:00:00.000997
+
+Packet intercepted @ 2021-02-16 03:14:58.709551
+Let through query to non-blacklisted domain <tpc.googlesyndication.com.> @ 2021-02-16 03:14:58.710512
+Processing latency: 0:00:00.000961
+
+Packet intercepted @ 2021-02-16 03:14:58.711512
+Let through query to non-blacklisted domain <tpc.googlesyndication.com.> @ 2021-02-16 03:14:58.711512
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:04.963680
+Let through query to non-blacklisted domain <drive.google.com.> @ 2021-02-16 03:15:04.964679
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:15:04.964679
+Let through query to non-blacklisted domain <drive.google.com.> @ 2021-02-16 03:15:04.965678
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:15:04.971679
+Let through query to non-blacklisted domain <web.whatsapp.com.> @ 2021-02-16 03:15:04.972710
+Processing latency: 0:00:00.001031
+
+Packet intercepted @ 2021-02-16 03:15:04.972710
+Let through query to non-blacklisted domain <web.whatsapp.com.> @ 2021-02-16 03:15:04.973709
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:15:04.980784
+Let through query to non-blacklisted domain <drive.google.com.> @ 2021-02-16 03:15:04.981678
+Processing latency: 0:00:00.000894
+
+Packet intercepted @ 2021-02-16 03:15:04.982689
+Let through query to non-blacklisted domain <drive.google.com.> @ 2021-02-16 03:15:04.983678
+Processing latency: 0:00:00.000989
+
+Packet intercepted @ 2021-02-16 03:15:04.989107
+Let through query to non-blacklisted domain <web.whatsapp.com.> @ 2021-02-16 03:15:04.989259
+Processing latency: 0:00:00.000152
+
+Packet intercepted @ 2021-02-16 03:15:04.990313
+Let through query to non-blacklisted domain <web.whatsapp.com.> @ 2021-02-16 03:15:04.991280
+Processing latency: 0:00:00.000967
+
+Packet intercepted @ 2021-02-16 03:15:09.788304
+Let through query to non-blacklisted domain <safebrowsing.googleapis.com.> @ 2021-02-16 03:15:09.794305
+Processing latency: 0:00:00.006001
+
+Packet intercepted @ 2021-02-16 03:15:09.795303
+Let through query to non-blacklisted domain <safebrowsing.googleapis.com.> @ 2021-02-16 03:15:09.797304
+Processing latency: 0:00:00.002001
+
+Packet intercepted @ 2021-02-16 03:15:09.798304
+Let through query to non-blacklisted domain <safebrowsing.googleapis.com.> @ 2021-02-16 03:15:09.799304
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:15:09.799304
+Let through query to non-blacklisted domain <safebrowsing.googleapis.com.> @ 2021-02-16 03:15:09.800304
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:15:09.807303
+Blocked outgoing query to blacklisted domain <www.reddit.com.> @ 2021-02-16 03:15:09.810304
+Processing latency: 0:00:00.003001
+
+Packet intercepted @ 2021-02-16 03:15:09.811303
+Blocked outgoing query to blacklisted domain <www.reddit.com.> @ 2021-02-16 03:15:09.813303
+Processing latency: 0:00:00.002000
+
+Packet intercepted @ 2021-02-16 03:15:09.884303
+Let through query to non-blacklisted domain <google.com.> @ 2021-02-16 03:15:09.886303
+Processing latency: 0:00:00.002000
+
+Packet intercepted @ 2021-02-16 03:15:09.891303
+Let through query to non-blacklisted domain <google.com.> @ 2021-02-16 03:15:09.898304
+Processing latency: 0:00:00.007001
+
+Packet intercepted @ 2021-02-16 03:15:09.905302
+Let through query to non-blacklisted domain <google.com.> @ 2021-02-16 03:15:09.906302
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:15:09.932300
+Let through query to non-blacklisted domain <google.com.> @ 2021-02-16 03:15:09.933301
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:15:15.926480
+Blocked outgoing query to blacklisted domain <www.reddit.com.> @ 2021-02-16 03:15:15.928509
+Processing latency: 0:00:00.002029
+
+Packet intercepted @ 2021-02-16 03:15:15.929481
+Blocked outgoing query to blacklisted domain <www.reddit.com.> @ 2021-02-16 03:15:15.931480
+Processing latency: 0:00:00.001999
+
+Packet intercepted @ 2021-02-16 03:15:44.973421
+Let through query to non-blacklisted domain <play.google.com.> @ 2021-02-16 03:15:44.974422
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:15:44.974422
+Let through query to non-blacklisted domain <play.google.com.> @ 2021-02-16 03:15:44.975421
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:15:44.975421
+Let through query to non-blacklisted domain <play.google.com.> @ 2021-02-16 03:15:44.976454
+Processing latency: 0:00:00.001033
+
+Packet intercepted @ 2021-02-16 03:15:44.977203
+Let through query to non-blacklisted domain <play.google.com.> @ 2021-02-16 03:15:44.978255
+Processing latency: 0:00:00.001052
+
+Packet intercepted @ 2021-02-16 03:15:45.775610
+Let through query to non-blacklisted domain <ocsp.digicert.com.> @ 2021-02-16 03:15:45.776581
+Processing latency: 0:00:00.000971
+
+Packet intercepted @ 2021-02-16 03:15:45.776581
+Let through query to non-blacklisted domain <ocsp.digicert.com.> @ 2021-02-16 03:15:45.777641
+Processing latency: 0:00:00.001060
+
+Packet intercepted @ 2021-02-16 03:15:45.792596
+Let through query to non-blacklisted domain <ocsp.digicert.com.> @ 2021-02-16 03:15:45.793582
+Processing latency: 0:00:00.000986
+
+Packet intercepted @ 2021-02-16 03:15:45.795413
+Let through query to non-blacklisted domain <ocsp.digicert.com.> @ 2021-02-16 03:15:45.796446
+Processing latency: 0:00:00.001033
+
+Packet intercepted @ 2021-02-16 03:15:45.952987
+Let through query to non-blacklisted domain <teams-ring.msedge.net.> @ 2021-02-16 03:15:45.956985
+Processing latency: 0:00:00.003998
+
+Packet intercepted @ 2021-02-16 03:15:45.962983
+Let through query to non-blacklisted domain <teams-ring.msedge.net.> @ 2021-02-16 03:15:45.962983
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:45.965984
+Blocked outgoing query to blacklisted domain <www.reddit.com.> @ 2021-02-16 03:15:45.967985
+Processing latency: 0:00:00.002001
+
+Packet intercepted @ 2021-02-16 03:15:45.969985
+Blocked outgoing query to blacklisted domain <www.reddit.com.> @ 2021-02-16 03:15:45.971983
+Processing latency: 0:00:00.001998
+
+Packet intercepted @ 2021-02-16 03:15:45.975983
+Let through query to non-blacklisted domain <teams-ring.msedge.net.> @ 2021-02-16 03:15:45.976982
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:15:45.987990
+Let through query to non-blacklisted domain <teams-ring.msedge.net.> @ 2021-02-16 03:15:45.989983
+Processing latency: 0:00:00.001993
+
+Packet intercepted @ 2021-02-16 03:15:46.167511
+Let through query to non-blacklisted domain <graph.azurefd.net.> @ 2021-02-16 03:15:46.168539
+Processing latency: 0:00:00.001028
+
+Packet intercepted @ 2021-02-16 03:15:46.168539
+Let through query to non-blacklisted domain <graph.azurefd.net.> @ 2021-02-16 03:15:46.169510
+Processing latency: 0:00:00.000971
+
+Packet intercepted @ 2021-02-16 03:15:46.334899
+Let through query to non-blacklisted domain <graph.azurefd.net.> @ 2021-02-16 03:15:46.335900
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:15:46.336898
+Let through query to non-blacklisted domain <graph.azurefd.net.> @ 2021-02-16 03:15:46.337900
+Processing latency: 0:00:00.001002
+
+Packet intercepted @ 2021-02-16 03:15:47.549546
+Let through query to non-blacklisted domain <login.live.com.> @ 2021-02-16 03:15:47.550546
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:15:47.551546
+Let through query to non-blacklisted domain <login.live.com.> @ 2021-02-16 03:15:47.551546
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:47.574545
+Let through query to non-blacklisted domain <login.live.com.> @ 2021-02-16 03:15:47.575547
+Processing latency: 0:00:00.001002
+
+Packet intercepted @ 2021-02-16 03:15:47.576547
+Let through query to non-blacklisted domain <login.live.com.> @ 2021-02-16 03:15:47.578545
+Processing latency: 0:00:00.001998
+
+Packet intercepted @ 2021-02-16 03:15:48.234477
+Let through query to non-blacklisted domain <checkappexec.microsoft.com.> @ 2021-02-16 03:15:48.235476
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:15:48.236475
+Let through query to non-blacklisted domain <checkappexec.microsoft.com.> @ 2021-02-16 03:15:48.236475
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:48.251977
+Let through query to non-blacklisted domain <checkappexec.microsoft.com.> @ 2021-02-16 03:15:48.252873
+Processing latency: 0:00:00.000896
+
+Packet intercepted @ 2021-02-16 03:15:48.254980
+Let through query to non-blacklisted domain <checkappexec.microsoft.com.> @ 2021-02-16 03:15:48.255873
+Processing latency: 0:00:00.000893
+
+Packet intercepted @ 2021-02-16 03:15:49.495357
+Let through query to non-blacklisted domain <fp-afd.azurefd.us.> @ 2021-02-16 03:15:49.496369
+Processing latency: 0:00:00.001012
+
+Packet intercepted @ 2021-02-16 03:15:49.497357
+Let through query to non-blacklisted domain <fp-afd.azurefd.us.> @ 2021-02-16 03:15:49.497357
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:49.514135
+Let through query to non-blacklisted domain <fp-afd.azurefd.us.> @ 2021-02-16 03:15:49.515304
+Processing latency: 0:00:00.001169
+
+Packet intercepted @ 2021-02-16 03:15:49.515304
+Let through query to non-blacklisted domain <fp-afd.azurefd.us.> @ 2021-02-16 03:15:49.516274
+Processing latency: 0:00:00.000970
+
+Packet intercepted @ 2021-02-16 03:15:50.424197
+Let through query to non-blacklisted domain <fp-vs.azureedge.net.> @ 2021-02-16 03:15:50.425198
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:15:50.425198
+Let through query to non-blacklisted domain <fp-vs.azureedge.net.> @ 2021-02-16 03:15:50.426198
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:15:50.442187
+Let through query to non-blacklisted domain <fp-vs.azureedge.net.> @ 2021-02-16 03:15:50.443188
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:15:50.444188
+Let through query to non-blacklisted domain <fp-vs.azureedge.net.> @ 2021-02-16 03:15:50.445188
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:15:50.579452
+Let through query to non-blacklisted domain <b-ring.msedge.net.> @ 2021-02-16 03:15:50.580453
+Processing latency: 0:00:00.001001
+
+Packet intercepted @ 2021-02-16 03:15:50.580453
+Let through query to non-blacklisted domain <b-ring.msedge.net.> @ 2021-02-16 03:15:50.581451
+Processing latency: 0:00:00.000998
+
+Packet intercepted @ 2021-02-16 03:15:50.596454
+Let through query to non-blacklisted domain <b-ring.msedge.net.> @ 2021-02-16 03:15:50.598452
+Processing latency: 0:00:00.001998
+
+Packet intercepted @ 2021-02-16 03:15:50.600452
+Let through query to non-blacklisted domain <b-ring.msedge.net.> @ 2021-02-16 03:15:50.602470
+Processing latency: 0:00:00.002018
+
+Packet intercepted @ 2021-02-16 03:15:54.960391
+Let through query to non-blacklisted domain <ssl.gstatic.com.> @ 2021-02-16 03:15:54.960391
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:54.961391
+Let through query to non-blacklisted domain <ssl.gstatic.com.> @ 2021-02-16 03:15:54.962391
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:15:54.964754
+Let through query to non-blacklisted domain <ssl.gstatic.com.> @ 2021-02-16 03:15:54.964754
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:54.965776
+Let through query to non-blacklisted domain <ssl.gstatic.com.> @ 2021-02-16 03:15:54.966775
+Processing latency: 0:00:00.000999
+
+Packet intercepted @ 2021-02-16 03:15:57.979083
+Let through query to non-blacklisted domain <www.youtube.com.> @ 2021-02-16 03:15:57.979083
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:57.980084
+Let through query to non-blacklisted domain <www.youtube.com.> @ 2021-02-16 03:15:57.980084
+Processing latency: 0:00:00
+
+Packet intercepted @ 2021-02-16 03:15:57.981084
+Let through query to non-blacklisted domain <www.youtube.com.> @ 2021-02-16 03:15:57.983082
+Processing latency: 0:00:00.001998
+
+Packet intercepted @ 2021-02-16 03:15:57.984082
+Let through query to non-blacklisted domain <www.youtube.com.> @ 2021-02-16 03:15:57.985082
+Processing latency: 0:00:00.001000
+
+Packet intercepted @ 2021-02-16 03:16:46.000463
+Blocked outgoing query to blacklisted domain <www.reddit.com.> @ 2021-02-16 03:16:46.002463
+Processing latency: 0:00:00.002000
+
+Packet intercepted @ 2021-02-16 03:16:46.004463
+Blocked outgoing query to blacklisted domain <www.reddit.com.> @ 2021-02-16 03:16:46.006463
+Processing latency: 0:00:00.002000
+
+Packet intercepted @ 2021-02-16 03:17:05.971970
+Let through query to non-blacklisted domain <play.google.com.> @ 2021-02-16 03:17:05.972943
+Processing latency: 0:00:00.000973
+
+Packet intercepted @ 2021-02-16 03:17:05.972943
+Let through query to non-blacklisted domain <play.google.com.> @ 2021-02-16 03:17:05.973959
+Processing latency: 0:00:00.001016
+
+Packet intercepted @ 2021-02-16 03:17:05.992576
+Let through query to non-blacklisted domain <play.google.com.> @ 2021-02-16 03:17:05.993629
+Processing latency: 0:00:00.001053
+
+Packet intercepted @ 2021-02-16 03:17:05.993629
+Let through query to non-blacklisted domain <play.google.com.> @ 2021-02-16 03:17:05.994597
+Processing latency: 0:00:00.000968
+
+Closing PyDivert handle @ 2021-02-16 03:17:20.671311
+Flushing DNS cache @ 2021-02-16 03:17:20.671311
+Total packets handled: 120
+Total bytes handled: 14896
+Blocked queries amount: 8
+Blocked queries bytes: 880
+Blocked queries average latency: 0:00:00.002129
+Blocked replies amount: 0
+Blocked replies bytes: 0
+Blocked replies average latency: 0:00:00
+Let through packets: 112
+Let through bytes: 14016
+Let through average latency: 0:00:00.001124
+Exiting filter @ 2021-02-16 03:17:20.698725
